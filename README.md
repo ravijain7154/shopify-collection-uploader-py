@@ -1,0 +1,1 @@
+# shopify-collection-uploader-py
