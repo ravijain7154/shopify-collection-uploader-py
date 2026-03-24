@@ -1,0 +1,2025 @@
+VariableFromFile
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry"",
+        ""title"": ""Jewelry"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Diamond & Gemstone Jewelry"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Watches"",
+        ""title"": ""Watches"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:2""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Watches"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement"",
+        ""title"": ""Engagement"",
+        ""body_html"": ""A fabulous collection of dazzling Diamond Engagement Rings & Wedding Bands to signify your enduring love & fondness for your soul mate. Begin your journey of love with any of these beautiful symbols of eternal union."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:5""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal & Diamond Jewelry"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Bridals"",
+        ""title"": ""Lovebright Bridals"",
+        ""body_html"": ""Browse our amazing collection of Lovebright Bridals Jewelry meticulously crafted to experience bigger looks and exceptional value."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1294""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings"",
+        ""title"": ""Rings"",
+        ""body_html"": ""Exquisite Diamond Rings for your soul mate. Celebrate your forever love, trust and togetherness with our amazing collection of Diamond Rings. Browse through our stylish collection to symbolize the eternity of your love."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:6""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces"",
+        ""title"": ""Pendants & Necklaces"",
+        ""body_html"": ""Pendants & Necklaces in all styles for all occasions. Surf through our dazzling collection of Pendants & Necklaces and proclaim your charm & style with any of these sparkling strands of elegance."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:7""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings"",
+        ""title"": ""Earrings"",
+        ""body_html"": ""Browse our fine collection of contemporary earrings that goes perfectly with her gorgeous ensemble. Adore her beauty and style with one of these excellent pairs of her most preferred fashion accessory."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:8""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Earrings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Bracelets-Bangles"",
+        ""title"": ""Bracelets & Bangles"",
+        ""body_html"": ""Find Brilliant Diamond Bracelets and radiant Bangles to enhance your fashion jewelry needs for all occasions. Pick one from our spectacular collection of stylish Bracelets & Bangles to complete your looks."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:9""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Bracelets & Bangles"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright"",
+        ""title"": ""Lovebright"",
+        ""body_html"": ""Browse our beautiful collection that has made buying diamond jewelry – fashionable & exciting again."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:97""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rose-Cut-Diamonds"",
+        ""title"": ""Rose Cut Diamonds"",
+        ""body_html"": ""Browse our amazing collection of a Rose Cut Diamond that has a flat bottom, with no pavilion, and a domed top resembles the shape of a rose bud."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1295""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Fusion-Diamonds"",
+        ""title"": ""Fusion Diamonds"",
+        ""body_html"": ""A marvelous collection of special faceted diamonds meticulously cut and fused together, to look like a large single rectangular emerald cut diamond."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1296""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Forevermore-2Stone"",
+        ""title"": ""Forevermore 2Stone"",
+        ""body_html"": ""Exquisite Forevermore 2Stone Collection, featuring awe-inspiring diamond jewelry set in breathtaking Two-Stone Designs. With one diamond signifying true love and the other signifying true friendship, the two stone design embraces the idea of two souls in splendid celebration of eternal companionship."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:623""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Forevermore 2Stone"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-EMotion-Diamonds"",
+        ""title"": ""EMotion Diamonds"",
+        ""body_html"": ""Passion… Love… Fire… All Ignite with our EMotion Diamonds Collection! Browse our Exquisite Collection of Diamond Jewelry which has given diamonds a whole new reason to shimmer and sparkle with her every movement and pulsating heartbeat. What a way to say You Shine like a Diamond!"",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:107""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Silver-Jewelry"",
+        ""title"": ""Silver Jewelry"",
+        ""body_html"": ""Silver – virtuous and radiant just like your love for her. Browse our magnificent collection of luminous Sterling Silver Jewelry and pick any of these refined pieces explicitly crafted to enliven the beauty and charm of your beloved."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:10""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Silver Jewelry"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Champagne-Diamonds"",
+        ""title"": ""Champagne Diamonds"",
+        ""body_html"": ""Indulge your Passions with Champagne Diamonds embraced in the warm blush of Rose Gold. This dazzling collection includes Rings, Pendants, Earrings, and Diamond Ensembles in gorgeous Rose Gold, radiant Yellow Gold and luminescent White Gold."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:102""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Watches-Watch-Collection"",
+        ""title"": ""Watch Collection"",
+        ""body_html"": ""Our Watch Collection features some of the world s finest Watch Brands with their best of watches. Explore our remarkable Collection of Watch Brands to get your favorite watch."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:58""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Watches - Watch Collection"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement-Engagement-Rings"",
+        ""title"": ""Engagement Rings"",
+        ""body_html"": ""Let her feel the fragrance of your passion with our charismatic Engagement Rings. Signify your perpetual love with any of these beautiful objects of desire, virtuous of witnessing the most treasured moments of your life."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:20""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Engagement Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement-Bridal-Sets"",
+        ""title"": ""Bridal Sets"",
+        ""body_html"": ""Experience the most enchanting way to say...  I DO  with our lustrous Wedding Sets. Every piece of this exquisite collection is crafted to affirm your unconditional love and promise of eternal togetherness to your beloved."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:19""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Bridal Sets"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement-Semi-Mount-Rings"",
+        ""title"": ""Semi-Mount Rings"",
+        ""body_html"": ""Hit the right chord with any of our captivating Semi Mount Rings. Frame a center stone of your choice to adorn your sweetheart with your splendid ‘sense of style’ and cherish the ecstasy of accomplishment."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:21""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Semi-Mount Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement-Matching-Bands"",
+        ""title"": ""Matching Bands"",
+        ""body_html"": ""Browse our exquisite collection of sparkling Matching Bands to signify your perpetual love. Pick one of these gorgeous Matching Bands as souvenir of your endless love & commitment."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:940""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Matching Bands"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement-Wedding-Bands"",
+        ""title"": ""Wedding Bands"",
+        ""body_html"": ""Our sparkling Wedding Bands signify love and devotion. Pledge your vows of eternal union with our mesmerizing Wedding Bands. Gift your soul mate any of these beautiful circles as souvenir of your endless love & commitment."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:22""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Wedding Bands"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement-Wraps-Inserts"",
+        ""title"": ""Wraps & Inserts"",
+        ""body_html"": ""Love always comes with care for your beloved. Our fabulous collection of Wraps and Inserts symbolize love encompassing care. Pick one to let your loved ones know how much you care."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:23""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Wraps & Inserts"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement-Solitaire"",
+        ""title"": ""Solitaire"",
+        ""body_html"": ""Choose one from our fantastic collection of Diamond Solitaire Rings that perfectly complements your soul mate’s gorgeous looks and blooming style and make your everlasting commitment more passionate."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:24""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Solitaire"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement-Past-Present-Future"",
+        ""title"": ""Past Present & Future"",
+        ""body_html"": ""Celebrate your Past, Present & Future relationship with a timeless symbol of eternal love from our exquisite collection of Three Stone Rings. Our Past, Present & Future Rings are perfect anniversary gifts to show your forever love for her."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:25""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Past Present & Future"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Engagement-Wedding-Band-Sets"",
+        ""title"": ""Wedding Band Sets"",
+        ""body_html"": ""Browse our beautiful collection of Diamond Wedding Band Sets meticulously crafted to complement your solemn pledges of everlasting togetherness. Pick one of these gorgeous Wedding Band Sets to promise your soul mate  I Forever Do ."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:26""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Wedding Band Sets"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings-Diamond-Rings"",
+        ""title"": ""Diamond Rings"",
+        ""body_html"": ""Diamonds are forever. Browse our exquisite collection of sparkling Diamond Rings and pick your choice for your soul mate to express the purity, eternity and zeal of your passionate love & commitment."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:27""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Rings - Diamond Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings-Fashion-Rings"",
+        ""title"": ""Fashion Rings"",
+        ""body_html"": ""Jewelry in Vogue! Reveal your style statement with our trendy collection of fashion diamonds rings. Browse our exclusive collection of fine Fashion Rings and get your piece of diamond fashion jewelry to add glamour and style to your personality."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:28""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Rings - Fashion Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings-Gemstone-Rings"",
+        ""title"": ""Gemstone Rings"",
+        ""body_html"": ""Looking for a perfect gift or just want to flatter your sweetheart, explore our colorful array of fascinating Gemstone Rings accented with glittering diamonds and add colors to your romance."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:30""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Rings - Gemstone Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings-Stackable-Bands"",
+        ""title"": ""Stackable Bands"",
+        ""body_html"": ""Match them or Stack them.The choice is yours.Desirable wedding, anniversary, fashion & eternity rings with diamonds or gemstones, for your unique style."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1089""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Stackable Bands"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings-Promise-Rings"",
+        ""title"": ""Promise Rings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1122""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Promise Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings-2Stone-Rings"",
+        ""title"": ""2Stone Rings"",
+        ""body_html"": ""Celebrate your forever love, trust and togetherness with our amazing 2Stone Rings collection. Browse through our stylish collection to symbolize the eternity of your love."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:624""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - 2Stone Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings-Gents-Rings"",
+        ""title"": ""Gents Rings"",
+        ""body_html"": ""Thrill him with our unique collection of meticulously crafted Gents Rings and pick the one that perfectly matches the style, sophistication, strength and dignity of the man in your life."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:31""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Rings - Gents Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings-His-Hers-Duos"",
+        ""title"": ""His & Hers Duos"",
+        ""body_html"": ""Browse our exquisite collection of enthralling Diamond Band Duos and pick your choice for your soul mate to express the purity, eternity and zeal of your passionate love & commitment."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:625""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - His & Hers Duos"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rings-Right-Hand-Rings"",
+        ""title"": ""Right Hand Rings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1323""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Diamond-Pendants"",
+        ""title"": ""Diamond Pendants"",
+        ""body_html"": ""Diamonds are a girl’s best friend. Browse our exclusive collection of lustrous Diamond Pendants and pick one for your ‘Gorgeous’ to make her feel the warmth & fragrance of your sparkling love."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:32""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Diamonds Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Fashion-Pendants"",
+        ""title"": ""Fashion Pendants"",
+        ""body_html"": ""Pendants are always in style.  Every piece of our dazzling collection of these trendy Fashion Pendants is a perfect complement for your soul mate’s enchanting beauty. Gift one of these glittering pendants to let her simply take pleasure in the vogue."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:33""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Fashion Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Gemstone-Pendants"",
+        ""title"": ""Gemstone Pendants"",
+        ""body_html"": ""Fascinating colors, enchanting translucency & mysterious attraction just like your love. Surf through our mesmerizing collection of vibrant Gemstone Pendants and compliment your sweetheart with her favorite hue."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:41""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Gemstone Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Cross-Pendants"",
+        ""title"": ""Cross Pendants"",
+        ""body_html"": ""Religious Jewelry. Reveal your faith, hope & devotion with our spiritual collection of beautiful & divine Cross Pendants crafted in precious metal and studded with brilliant diamonds."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:36""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Cross Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Heart-Pendants"",
+        ""title"": ""Heart Pendants"",
+        ""body_html"": ""Heart Pendants are a symbol of love and commitment. Browse our charming Heart Pendants to make a romantic gift. Our gorgeous diamond & gemstone studded Heart Pendants will always be an alluring emblem of your fondness, emotions & intimacy to your ‘Someone Special’."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:35""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Heart Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Station-Necklaces"",
+        ""title"": ""Station Necklaces"",
+        ""body_html"": ""A smart way to adorn a chic look.Our station necklaces are well crafted delicate chains with sparkly diamonds arranged in various station designs to suit your preference."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1090""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Station Necklaces"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-2Stone-Pendants"",
+        ""title"": ""2Stone Pendants"",
+        ""body_html"": ""Browse our exclusive collection of 2Stone Pendants and pick one for your ‘Gorgeous’ to make her feel the warmth & denote equality in the relationship."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:626""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - 2Stone Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Key-Pendants"",
+        ""title"": ""Key Pendants"",
+        ""body_html"": ""Browse our stunning collection of Diamond Key Pendants meticulously crafted to unveil your unconditional love & commitment that goes beyond words & time. Pick any of these fascinating Key Pendants to gift her the Key to your Heart."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:43""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Key Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Geometric-Pendants"",
+        ""title"": ""Geometric Pendants"",
+        ""body_html"": ""A fabulous collection of Pendants with Trendy Angles. Browse and pick one to express your love, emotion and sentiments to her."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:863""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Geometric Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Past-Present-Future"",
+        ""title"": ""Past Present & Future"",
+        ""body_html"": ""A fabulous collection of timeless three stone diamond Pendants to celebrate your Past, Present & Future relationship. This anniversary, strengthen your promise of love with one of these stunning Pendants."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:38""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Past Present & Future"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Journey-Pendants"",
+        ""title"": ""Journey Pendants"",
+        ""body_html"": ""With Every Step, Love Grows. Browse our exquisite array of scintillating diamond Journey Pendants and surprise her with one of these skillfully crafted portrayals of your journey of life & love together."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:39""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Journey Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Solitaire-Pendants"",
+        ""title"": ""Solitaire Pendants"",
+        ""body_html"": ""Fascinate your sweetheart with the timeless brilliance of one of these elegantly crafted Diamond Solitaire Pendants and express your love, emotion and sentiments to her."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:34""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Solitaire Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Necklaces"",
+        ""title"": ""Necklaces"",
+        ""body_html"": ""An elegant collection of dazzling Diamond Necklaces to add a glimmer to your beautiful neckline. Browse through our luxurious array of Diamond Necklaces and choose one to accentuate your individuality & attitude."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:42""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Necklaces"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Circle-Pendants"",
+        ""title"": ""Circle Pendants"",
+        ""body_html"": ""Explore our stunning collection of radiant Circle Pendants. Studded with brilliant diamonds & gemstones, these Circle Pendants perfectly symbolize the eternity of your endless love and commitment."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:40""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Pendants & Necklaces - Circle Pendants"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Pendants-Necklaces-Pendants"",
+        ""title"": ""Pendants"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1322""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Diamond-Earrings"",
+        ""title"": ""Diamond Earrings"",
+        ""body_html"": ""From classic to contemporary, our incomparable collection of splendid Diamond Earrings promises an alluring look on all occasions. Browse through these beautiful pieces of attraction and choose your style."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:44""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Earrings - Diamond Earrings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Fashion-Earrings"",
+        ""title"": ""Fashion Earrings"",
+        ""body_html"": ""Girls love accessories. Surf through our captivating collection of these stunning Fashion Earrings meticulously designed to please her style statement. Pick one of these beautiful pair of earrings for her to enjoy beauty & vogue together."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:45""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Earrings - Fashion Earrings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Gemstone-Earrings"",
+        ""title"": ""Gemstone Earrings"",
+        ""body_html"": ""A whimsical collection of exquisite Gemstone Earrings to add color to your exceptional lifestyle. Get your preferred pair of earrings and add the radiance of these vivacious precious gemstones to your personality."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:50""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Earrings - Gemstone Earrings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Hoop-Earrings"",
+        ""title"": ""Hoop Earrings"",
+        ""body_html"": ""Hoop Earrings are one of the very few pieces of jewelry that can go with anything. Browse through our riveting collection of gorgeous Hoop Earrings and pick your choice just to catch a glimpse of your sweetheart’s pretty smile."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:47""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Earrings - Hoop Earrings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Solitaire-Studs"",
+        ""title"": ""Solitaire Studs"",
+        ""body_html"": ""Diamond Solitaire Earrings are all time favorites. Browse through our excellent array of sparkling Diamond Solitaire Earrings and give your soul mate the perfect pair to compliment her stunning looks."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:46""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Earrings - Solitaire Earrings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-2Stone-Earrings"",
+        ""title"": ""2Stone Earrings"",
+        ""body_html"": ""Two brilliant cut diamonds set together enhances the magnificence of this exquisite collection. Browse through these beautiful pieces of attraction and choose your style."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:627""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - 2Stone Earrings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Earring-Jackets"",
+        ""title"": ""Earring Jackets"",
+        ""body_html"": ""Make your own style statement with this pair of beautifully designed diamond earring jackets. Browse through these beautiful pieces of attraction and choose your style."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:628""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Earring Jackets"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Long-Earrings"",
+        ""title"": ""Long Earrings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:387""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Journey-Earrings"",
+        ""title"": ""Journey Earrings"",
+        ""body_html"": ""Lasting symbols of love, commitment & togetherness. Crafted in lustrous gold and studded with brilliant diamonds, these beautiful Journey Diamond Earrings are just the right pick to celebrate the journey of your life and love."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:49""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Earrings - Journey Earrings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Past-Present-Future"",
+        ""title"": ""Past Present & Future"",
+        ""body_html"": ""Three Stone Earrings for the past present & future of your journey of love & togetherness. Browse our fascinating collection of alluring Past Present & Future Earrings to express your perpetual commitment to your soul mate."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:48""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Earrings - Past Present & Future"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Earrings-Earrings"",
+        ""title"": ""Earrings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1321""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Bracelets-Bangles-Diamond-Bracelets"",
+        ""title"": ""Diamond Bracelets"",
+        ""body_html"": ""From formal attires to casual outfits, Diamond Bracelets are the most preferred add-on. Give her one of these glittering Diamond Bracelets to complete her fashion jewelry desires."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:51""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Bracelets & Bangles - Diamond Bracelets"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Bracelets-Bangles-Lariat-Bracelets"",
+        ""title"": ""Lariat Bracelets"",
+        ""body_html"": ""Browse our exquisite collection of Lariat Bracelets with an adjustable clasp that makes them look like shimmering strings with tassels hanging gingerly. Give her one of these sparkling Lariat Bracelets to add a touch of class for her."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:865""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Bracelets & Bangles - Lariat Bracelets"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Bracelets-Bangles-Gemstone-Bracelets"",
+        ""title"": ""Gemstone Bracelets"",
+        ""body_html"": ""Add the color of these Gemstone Bracelets to your fashion statement. Pick up your favorite gemstone or your birthstone studded piece from our trendy line of colorful Gemstone Bracelets."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:52""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Bracelets & Bangles - Gemstone Bracelets"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Bracelets-Bangles-Charms"",
+        ""title"": ""Charms"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1312""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Bracelets & Bangles - Charms"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Bracelets-Bangles-Bangles"",
+        ""title"": ""Bangles"",
+        ""body_html"": ""Express your feelings of love with our marvelous and splendid collection of diamond Bangles. Browse our fabulous collection of Bangles crafted meticulously in white and yellow gold and studded with radiant diamonds."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:53""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Bracelets & Bangles - Bangles"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Bracelets-Bangles-Bracelets"",
+        ""title"": ""Bracelets"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1319""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Bracelets-Bangles-Gents-Bracelets"",
+        ""title"": ""Gent""s Bracelets"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1320""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Bracelets-Bangles-Stackable-Bangles"",
+        ""title"": ""Stackable Bangles"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1462""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Silver-Jewelry-Pendants-Necklaces"",
+        ""title"": ""Pendants & Necklaces"",
+        ""body_html"": ""Sterling Silver Pendants & Necklaces are like pieces of elegance. Browse through our wonderful collection of these radiant Sterling Silver Pendants & Necklaces and pick one for your beloved to simply admire her elegance."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:55""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Silver Jewelry - Pendants & Necklaces"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Silver-Jewelry-Earrings"",
+        ""title"": ""Earrings"",
+        ""body_html"": ""Sterling Silver Earrings – simple and sleek yet exquisite. Surf through our stunning collection of these charming pair of Sterling Silver Earrings that perfectly goes together with all the outfits in your sweetheart’s wardrobe."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:56""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Silver Jewelry - Earrings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Silver-Jewelry-Rings"",
+        ""title"": ""Rings"",
+        ""body_html"": ""Browse our magnificent collection of dazzling Sterling Silver Rings meticulously crafted to experience luxury with simplicity. Pick one of these sparkling Sterling Silver Rings for your sweetheart to express the exquisiteness of your love."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:54""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Silver Jewelry - Rings"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Silver-Jewelry-Bracelets-Bangles"",
+        ""title"": ""Bracelets & Bangles"",
+        ""body_html"": ""The most preferred fashion accessory – just for you. Browse through our fashion forward collection of exquisite Sterling Silver Bracelets & Bangles meticulously crafted to reveal your style statement and leave everyone speechless."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:57""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - Bracelets & Bangles"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Essentials"",
+        ""title"": ""Essentials"",
+        ""body_html"": ""See the difference a Lovebright Diamond makes. Browse our magnificent collection of essentials meticulously crafted to experience luxury with simplicity."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1006""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Bridal - Essentials"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Earrings"",
+        ""title"": ""Earrings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:100""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Pendants-Necklaces"",
+        ""title"": ""Pendants & Necklaces"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:99""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Rings"",
+        ""title"": ""Rings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:98""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Bracelets-Bangles"",
+        ""title"": ""Bracelets & Bangles"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:101""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Champagne-Diamonds-Rings"",
+        ""title"": ""Rings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:103""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Champagne-Diamonds-Pendants-Necklaces"",
+        ""title"": ""Pendants & Necklaces"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:104""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Champagne-Diamonds-Earrings"",
+        ""title"": ""Earrings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:105""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Champagne-Diamonds-Bracelets-Bangles"",
+        ""title"": ""Bracelets & Bangles"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:106""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-EMotion-Diamonds-Emotion-Styles"",
+        ""title"": ""Emotion Styles"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1317""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Forevermore-2Stone-2Stone-Styles"",
+        ""title"": ""2Stone Styles"",
+        ""body_html"": ""With one diamond signifying true love and the other signifying true friendship, the two stone design embraces the idea of two souls in splendid celebration of eternal companionship."",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:629""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": ""Your Trusted Source for Jewelry - 2Stone Styles"",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Bridals-Engagement-Rings"",
+        ""title"": ""Engagement Rings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1298""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Bridals-Bridal-Sets"",
+        ""title"": ""Bridal Sets"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1297""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Bridals-Matching-Bands"",
+        ""title"": ""Matching Bands"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1299""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Lovebright-Bridals-Past-Present-Future"",
+        ""title"": ""Past Present & Future"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1300""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Rose-Cut-Diamonds-Rose-Cut-Styles"",
+        ""title"": ""Rose Cut Styles"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1316""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Fusion-Diamonds-Rings"",
+        ""title"": ""Rings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1305""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Fusion-Diamonds-Pendants-Necklaces"",
+        ""title"": ""Pendants & Necklaces"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1306""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Fusion-Diamonds-Earrings"",
+        ""title"": ""Earrings"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1307""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
+"{
+    ""smart_collection"": {
+        ""handle"": ""Jewelry-Fusion-Diamonds-Bracelets-Bangles"",
+        ""title"": ""Bracelets & Bangles"",
+        ""body_html"": "" "",
+        ""rules"": [
+            {
+                ""column"": ""tag"",
+                ""relation"": ""equals"",
+                ""condition"": ""category_id:1308""
+            }
+        ],
+  ""metafields"": [
+        {
+            ""namespace"": ""global"",
+            ""key"": ""title_tag"",
+            ""value"": """",
+            ""type"": ""single_line_text_field""
+        }
+    ]
+    }
+}"
