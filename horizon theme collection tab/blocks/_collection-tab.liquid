@@ -13,10 +13,10 @@
     closest.collection: collection,
     parent_block_id: block.id %}
 {% endcapture %}
-
-{% capture children_product %}
-        {% for product in collection.products %}
-          <li
+ 
+    {% capture children_product %}
+        {% for product in collection.products limit: block.settings.product-limit %}
+          <div
             id="{{ section.id }}-{{ product.id }}"
             class="product-grid__item product-grid__item--{{ forloop.index0 }}"
             data-page="{{ paginate.current_page }}"
@@ -26,9 +26,9 @@
             {% # theme-check-disable %}
             {% content_for 'block', type: '_product-card', id: 'product-card', closest.product: product %}
             {% # theme-check-enable %}
-          </li>
+          </div>
         {% endfor %}
-      {% endcapture %}
+    {% endcapture %}
 
      
 
@@ -138,6 +138,16 @@
       "type": "range",
       "id": "collection_card_gap",
       "label": "t:settings.vertical_gap",
+      "min": 0,
+      "max": 50,
+      "step": 1,
+      "unit": "px",
+      "default": 8
+    },
+    {
+      "type": "range",
+      "id": "product-limit",
+      "label": "Show Products",
       "min": 0,
       "max": 50,
       "step": 1,
